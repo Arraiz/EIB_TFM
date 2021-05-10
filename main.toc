@@ -1,0 +1,16 @@
+\babel@toc {spanish}{}
+\contentsline {chapter}{Resumen \normalfont {{\serifthick Laburpena} Abstract}}{1}{chapter*.1}%
+\contentsline {chapter}{Lista de figuras}{3}{section*.3}%
+\contentsline {chapter}{Lista de tablas}{4}{section*.5}%
+\contentsline {chapter}{Lista de acrónimos}{5}{chapter*.7}%
+\contentsline {chapter}{\numberline {1}Introducción}{6}{chapter.1}%
+\contentsline {chapter}{\numberline {2}Contexto}{8}{chapter.2}%
+\contentsline {chapter}{\numberline {3}Objetivos y alcance}{9}{chapter.3}%
+\contentsline {chapter}{\numberline {4}Beneficios}{10}{chapter.4}%
+\contentsline {chapter}{\numberline {5}Análisis de alternativas}{11}{chapter.5}%
+\contentsline {chapter}{\numberline {6}Descripción de la solución}{12}{chapter.6}%
+\contentsline {chapter}{\numberline {7}Descripción de tareas}{13}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Diagrama de Gantt}{13}{section.7.1}%
+\contentsline {chapter}{\numberline {8}Descripción del presupuesto}{14}{chapter.8}%
+\contentsline {chapter}{\numberline {9}Conclusiones}{15}{chapter.9}%
+\contentsline {chapter}{Bibliografía}{16}{section*.10}%
